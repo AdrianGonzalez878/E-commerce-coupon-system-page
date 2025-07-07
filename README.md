@@ -1,8 +1,8 @@
 # E-commerce-coupon-system-page
-Este proyecto es una simulación práctica de un sistema de cupones en un e-commerce. Incluye funcionalidades como: 
-.Visualización de productos por categoría
-.Carrito de compras con aumentos/disminuciones
-.Aplicación de cupones de diferentes tipos y reglas
-.Panel administrativo visual para gestión y validación de cupones
+This project is a practical simulation of an e-commerce coupon system. It includes features such as:
+.Product display by category
+.Shopping cart with increases/decreases
+.Application of coupons of different types and rules
+.Visual administrative panel for coupon management and validation
 
 ![project1](https://github.com/user-attachments/assets/deb02630-9d12-415f-b81c-1fbb55fc0b68)
